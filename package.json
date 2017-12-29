@@ -11,6 +11,9 @@
     "type": "git",
     "url": "https://github.com/timnew/gulp-mock-fs.git"
   },
+  "engines": {
+    "node": ">=6"
+  },
   "keywords": [
     "gulp",
     "gulp-plugin",
