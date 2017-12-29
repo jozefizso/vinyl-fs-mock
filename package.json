@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/timnew/gulp-mock-fs",
   "devDependencies": {
-    "chai": "^1.9.1",
+    "chai": "^4.1.2",
     "coffeescript": "^2.1.0",
     "del": "^3.0.0",
     "gulp": "^3.8.6",
@@ -40,7 +40,7 @@
     "gulp-coffee": "^3.0.1",
     "gulp-mocha": "^4.3.1",
     "gulp-plumber": "^1.1.0",
-    "mocha": "^1.20.1",
+    "mocha": "^4.1.0",
     "through2-spy": "^1.2.0",
     "yargs": "^1.2.6"
   },
