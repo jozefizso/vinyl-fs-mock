@@ -39,7 +39,7 @@
     "gulp-bump": "^0.1.10",
     "gulp-coffee": "^3.0.1",
     "gulp-mocha": "^4.3.1",
-    "gulp-plumber": "^0.6.3",
+    "gulp-plumber": "^1.1.0",
     "mocha": "^1.20.1",
     "through2-spy": "^1.2.0",
     "yargs": "^1.2.6"
