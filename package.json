@@ -42,7 +42,7 @@
     "gulp-plumber": "^1.1.0",
     "mocha": "^4.1.0",
     "through2-spy": "^1.2.0",
-    "yargs": "^1.2.6"
+    "yargs": "^10.0.3"
   },
   "dependencies": {
     "glob2base": "git+https://github.com/timnew/glob2base.git#master",
